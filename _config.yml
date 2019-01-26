@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Abel Z. Shiferaw"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/MyPhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Washington, D.C."
   email            :
