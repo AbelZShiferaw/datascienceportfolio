@@ -3,9 +3,9 @@ title: "Data Science Project: Capital One Data Challenge"
 date: 2019-02-12
 tags: [Data Challenge, data science, Capital One, Python]
 header: 
-    image: "images/datachallenge/Capital1.png"
-  excerpt: "Data Challenge, Capital One, data science, python"
-  mathjax: "true"
+  image: "images/datachallenge/Capital1.png"
+excerpt: "Data Challenge, Capital One, data science, python"
+mathjax: "true"
 ---
 
 # H1 Heading
