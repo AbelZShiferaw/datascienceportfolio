@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /datascience-projects/
+permalink: /machine-learning/
 title: "Data Science Projects"
 author_profile: true
 header:
